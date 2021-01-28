@@ -1,8 +1,5 @@
 ### Hi there 👋
 ### Welcome to my Github
-
-![alt text](https://github.com/c10udg0d/c10udg0d/blob/main/PixelProfile.png "c10udg0d a.k.a. José Rodrigues") 
-
 ```bash
 #                                     ___                       ___
 #                                     `MM                       `MM
