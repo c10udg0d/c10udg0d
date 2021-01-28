@@ -23,6 +23,7 @@
 A little something about me:
 - 🔭 I’m currently working on migrating N-tier applications to distributed architectures (mainly microservices)
 - 🌱 I’m currently learning to play the piano
+- 🙏🏻 I hope I can have the time to do more **c0d1ng**
 - 👯 I’m looking to collaborate on interesting open-source projects that make the lives of IT teams easier on their day-to-day tasks
 - 💬 Ask me about **CLOUD** - From how to size a cloud infrastructure, to cloud architectures and patterns, to whatever else is related.
 - 📫 How to reach me: Twitter @joserodbpm
