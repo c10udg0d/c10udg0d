@@ -19,6 +19,7 @@
 
 A little something about me:
 - 🔭 I’m currently working on migrating N-tier applications to distributed architectures (mainly microservices)
+- 🔭 I’m also working as the Principal Product Manager on a next-gen electric mobility management application for eMSPs (electric mobility service providers)
 - 🌱 I’m currently learning to play the piano
 - 🙏🏻 I hope I can have the time to do more **c0d1ng**
 - 👯 I’m looking to collaborate on interesting open-source projects that make the lives of IT teams easier on their day-to-day tasks
